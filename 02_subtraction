@@ -1,0 +1,10 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    //Write C code here
+    int a=50,b=20;
+    printf("a-b=%d",a-b);
+
+    return 0;
+}
